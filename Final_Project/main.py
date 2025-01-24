@@ -1,8 +1,5 @@
 ﻿import attendance
 import cheating
-# import cheating_test
-# import test
-# import roll_test
 
 while True:
     print("\n===Function code===")
